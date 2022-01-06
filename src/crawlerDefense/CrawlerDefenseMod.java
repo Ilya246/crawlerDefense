@@ -1,4 +1,4 @@
-package crawleDefense;
+package crawlerDefense;
 
 import arc.Core;
 import arc.Events;
